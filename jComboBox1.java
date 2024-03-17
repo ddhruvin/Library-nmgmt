@@ -8,13 +8,6 @@ package jframe;
  *
  * @author dhruv
  */
-public class Home {
-
-    public Home() {
-    }
-
-    void setVisible(boolean b) {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
-    }
+class jComboBox1 {
     
 }
